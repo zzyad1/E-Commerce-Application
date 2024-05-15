@@ -1,0 +1,85 @@
+E:\webAPI\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.deps.json
+E:\webAPI\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.dll
+E:\webAPI\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.pdb
+E:\webAPI\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\webAPI\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.AssemblyInfoInputs.cache
+E:\webAPI\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.AssemblyInfo.cs
+E:\webAPI\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.CoreCompileInputs.cache
+E:\webAPI\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.dll
+E:\webAPI\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\refint\E-Commerce.Services.dll
+E:\webAPI\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.pdb
+E:\webAPI\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\ref\E-Commerce.Services.dll
+E:\webAPI\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.core.dll
+E:\webAPI\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\Ecommerce.Repository.dll
+E:\webAPI\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\Ecommerce.Repository.pdb
+E:\webAPI\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.core.pdb
+E:\webAPI\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.AssemblyReference.cache
+E:\webAPI\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.CopyComplete
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.deps.json
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.dll
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.pdb
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.core.dll
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\Ecommerce.Repository.dll
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\Ecommerce.Repository.pdb
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.core.pdb
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.AssemblyReference.cache
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.AssemblyInfoInputs.cache
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.AssemblyInfo.cs
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.CoreCompileInputs.cache
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.CopyComplete
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.dll
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\refint\E-Commerce.Services.dll
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.pdb
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\ref\E-Commerce.Services.dll
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.deps.json
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.dll
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.pdb
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.core.dll
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\Ecommerce.Repository.dll
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\Ecommerce.Repository.pdb
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.core.pdb
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.AssemblyReference.cache
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.AssemblyInfoInputs.cache
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.AssemblyInfo.cs
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.CoreCompileInputs.cache
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.CopyComplete
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.dll
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\refint\E-Commerce.Services.dll
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.pdb
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\ref\E-Commerce.Services.dll
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.deps.json
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.dll
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.pdb
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.core.dll
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\Ecommerce.Repository.dll
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\Ecommerce.Repository.pdb
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.core.pdb
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.AssemblyReference.cache
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.AssemblyInfoInputs.cache
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.AssemblyInfo.cs
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.CoreCompileInputs.cache
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.CopyComplete
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.dll
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\refint\E-Commerce.Services.dll
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.pdb
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\ref\E-Commerce.Services.dll
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.deps.json
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.dll
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.pdb
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.core.dll
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\Ecommerce.Repository.dll
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\Ecommerce.Repository.pdb
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.core.pdb
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.AssemblyReference.cache
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.AssemblyInfoInputs.cache
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.AssemblyInfo.cs
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.CoreCompileInputs.cache
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.CopyComplete
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.dll
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\refint\E-Commerce.Services.dll
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.pdb
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.Services\obj\Debug\net6.0\ref\E-Commerce.Services.dll

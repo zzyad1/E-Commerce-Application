@@ -1,0 +1,59 @@
+E:\webAPI\E-Commerce\E-Commerce.core\bin\Debug\net6.0\E-Commerce.core.deps.json
+E:\webAPI\E-Commerce\E-Commerce.core\bin\Debug\net6.0\E-Commerce.core.dll
+E:\webAPI\E-Commerce\E-Commerce.core\bin\Debug\net6.0\E-Commerce.core.pdb
+E:\webAPI\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\webAPI\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.AssemblyInfoInputs.cache
+E:\webAPI\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.AssemblyInfo.cs
+E:\webAPI\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.csproj.CoreCompileInputs.cache
+E:\webAPI\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.dll
+E:\webAPI\E-Commerce\E-Commerce.core\obj\Debug\net6.0\refint\E-Commerce.core.dll
+E:\webAPI\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.pdb
+E:\webAPI\E-Commerce\E-Commerce.core\obj\Debug\net6.0\ref\E-Commerce.core.dll
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.core\bin\Debug\net6.0\E-Commerce.core.deps.json
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.core\bin\Debug\net6.0\E-Commerce.core.dll
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.core\bin\Debug\net6.0\E-Commerce.core.pdb
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.AssemblyInfoInputs.cache
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.AssemblyInfo.cs
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.csproj.CoreCompileInputs.cache
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.dll
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.core\obj\Debug\net6.0\refint\E-Commerce.core.dll
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.pdb
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.core\obj\Debug\net6.0\ref\E-Commerce.core.dll
+E:\webAPI\E-Commerce Session04\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.csproj.AssemblyReference.cache
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.core\bin\Debug\net6.0\E-Commerce.core.deps.json
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.core\bin\Debug\net6.0\E-Commerce.core.dll
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.core\bin\Debug\net6.0\E-Commerce.core.pdb
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.csproj.AssemblyReference.cache
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.AssemblyInfoInputs.cache
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.AssemblyInfo.cs
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.csproj.CoreCompileInputs.cache
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.dll
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\refint\E-Commerce.core.dll
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.pdb
+E:\webAPI\E-Commerce Session05\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\ref\E-Commerce.core.dll
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.core\bin\Debug\net6.0\E-Commerce.core.deps.json
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.core\bin\Debug\net6.0\E-Commerce.core.dll
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.core\bin\Debug\net6.0\E-Commerce.core.pdb
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.csproj.AssemblyReference.cache
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.AssemblyInfoInputs.cache
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.AssemblyInfo.cs
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.csproj.CoreCompileInputs.cache
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.dll
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\refint\E-Commerce.core.dll
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.pdb
+E:\webAPI\E-Commerce Session06\E-Commerce Session05\E-Commerce\E-Commerce.core\obj\Debug\net6.0\ref\E-Commerce.core.dll
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.core\bin\Debug\net6.0\E-Commerce.core.deps.json
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.core\bin\Debug\net6.0\E-Commerce.core.dll
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.core\bin\Debug\net6.0\E-Commerce.core.pdb
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.csproj.AssemblyReference.cache
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.AssemblyInfoInputs.cache
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.AssemblyInfo.cs
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.csproj.CoreCompileInputs.cache
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.dll
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.core\obj\Debug\net6.0\refint\E-Commerce.core.dll
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.core\obj\Debug\net6.0\E-Commerce.core.pdb
+E:\webAPI\E-Commerce\E-Commerce\E-Commerce.core\obj\Debug\net6.0\ref\E-Commerce.core.dll

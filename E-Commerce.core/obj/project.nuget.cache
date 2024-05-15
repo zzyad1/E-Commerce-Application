@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "XlAHztxOhNx84CqsfYaVp7Bfik3mhIfxFq3dn4goiqmsxG+X1/d3jC0FppbYzFW/FoBde+FL4+Hx8lESqrdmHA==",
+  "success": true,
+  "projectFilePath": "E:\\webAPI\\E-Commerce\\E-Commerce\\E-Commerce.core\\E-Commerce.core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.29\\microsoft.aspnetcore.cryptography.internal.6.0.29.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.29\\microsoft.aspnetcore.cryptography.keyderivation.6.0.29.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.29\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.29.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.29\\microsoft.entityframeworkcore.6.0.29.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.29\\microsoft.entityframeworkcore.abstractions.6.0.29.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.29\\microsoft.entityframeworkcore.analyzers.6.0.29.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.29\\microsoft.entityframeworkcore.relational.6.0.29.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.29\\microsoft.extensions.identity.core.6.0.29.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.29\\microsoft.extensions.identity.stores.6.0.29.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\zyadm\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
